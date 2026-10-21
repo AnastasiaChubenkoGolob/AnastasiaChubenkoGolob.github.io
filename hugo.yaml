@@ -566,7 +566,7 @@ params:
               My goal is to build a successful career in technology and continue growing both personally and professionally.
               
               Thank you for visiting my website!"
-    image: /images/myphoto.jpg
+    image: "/mysite/images/myphoto.jpg"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -590,7 +590,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/myphoto2.jpg"
+    image: "/mysite/images/myphoto2.jpg"
     content: Hi! My name is Anastasia. I am currently studying Data Analysis and AI Specialist at triOS College.
        I enjoy learning about technology, data analysis, and artificial intelligence. I am developing my skills and working toward a career as a Data Analyst.
     skills:
