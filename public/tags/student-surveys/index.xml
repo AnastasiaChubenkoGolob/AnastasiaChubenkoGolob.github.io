@@ -18,7 +18,7 @@
 				<link>http://localhost:1313/blogs/student-survey-ethics/</link>
 				<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/blogs/student-survey-ethics/</guid>
-				<description></description>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Student surveys are an important way for colleges to understand the quality of their courses. They help students share their opinions and allow management to decide which courses need improvement.&lt;/p&gt;&#xA;&lt;p&gt;However, collecting student feedback also creates ethical responsibilities. Students should feel safe when answering questions, and their personal information should be protected.&lt;/p&gt;&#xA;&lt;p&gt;In this example, students must log in with their username and password to complete a survey. The survey promises anonymity, but students may not know whether their answers can be connected to their accounts.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
