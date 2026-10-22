@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/AnastasiaChubenkoGolob/es/</loc>
+    <loc>https://anastasiachubenkogolob.github.io/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/AnastasiaChubenkoGolob/"
+                href="https://anastasiachubenkogolob.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/AnastasiaChubenkoGolob/es/"
+                href="https://anastasiachubenkogolob.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/AnastasiaChubenkoGolob/fr/"
+                href="https://anastasiachubenkogolob.github.io/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/AnastasiaChubenkoGolob/es/categories/</loc>
+    <loc>https://anastasiachubenkogolob.github.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/AnastasiaChubenkoGolob/categories/"
+                href="https://anastasiachubenkogolob.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/AnastasiaChubenkoGolob/es/categories/"
+                href="https://anastasiachubenkogolob.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/AnastasiaChubenkoGolob/fr/categories/"
+                href="https://anastasiachubenkogolob.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/AnastasiaChubenkoGolob/es/tags/</loc>
+    <loc>https://anastasiachubenkogolob.github.io/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/AnastasiaChubenkoGolob/tags/"
+                href="https://anastasiachubenkogolob.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/AnastasiaChubenkoGolob/es/tags/"
+                href="https://anastasiachubenkogolob.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/AnastasiaChubenkoGolob/fr/tags/"
+                href="https://anastasiachubenkogolob.github.io/fr/tags/"
                 />
   </url>
 </urlset>
