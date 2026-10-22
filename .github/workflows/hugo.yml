@@ -32,7 +32,7 @@ jobs:
           sudo dpkg -i hugo.deb
 
       - name: Build website
-        run: hugo --gc --minify --baseURL "https://chubenkonastya.github.io/mysite/"
+        run: hugo --gc --minify --baseURL "https://anastasiachubenkogolob.github.io/"
 
       - name: Upload website
         uses: actions/upload-pages-artifact@v3
