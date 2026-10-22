@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Privacy on Anastasia Chubenko-Golob</title>
-		<link>https://anastasiachubenkogolob.github.io/tags/privacy/</link>
+		<link>http://localhost:1313/tags/privacy/</link>
 		<description>Recent content in Privacy on Anastasia Chubenko-Golob</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://anastasiachubenkogolob.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Can We Really Trust Anonymous Student Surveys?</title>
-				<link>https://anastasiachubenkogolob.github.io/blogs/student-survey-ethics/</link>
+				<link>http://localhost:1313/blogs/student-survey-ethics/</link>
 				<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://anastasiachubenkogolob.github.io/blogs/student-survey-ethics/</guid>
+				<guid>http://localhost:1313/blogs/student-survey-ethics/</guid>
 				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Student surveys are an important way for colleges to understand the quality of their courses. They help students share their opinions and allow management to decide which courses need improvement.&lt;/p&gt;&#xA;&lt;p&gt;However, collecting student feedback also creates ethical responsibilities. Students should feel safe when answering questions, and their personal information should be protected.&lt;/p&gt;&#xA;&lt;p&gt;In this example, students must log in with their username and password to complete a survey. The survey promises anonymity, but students may not know whether their answers can be connected to their accounts.&lt;/p&gt;</description>
 			</item>
 	</channel>

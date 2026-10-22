@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Anastasia Chubenko-Golob</title>
-		<link>https://anastasiachubenkogolob.github.io/tags/</link>
+		<link>http://localhost:1313/tags/</link>
 		<description>Recent content in Tags on Anastasia Chubenko-Golob</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,82 +12,82 @@
 		
 			<lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://anastasiachubenkogolob.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Data Ethics</title>
-				<link>https://anastasiachubenkogolob.github.io/tags/data-ethics/</link>
+				<link>http://localhost:1313/tags/data-ethics/</link>
 				<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://anastasiachubenkogolob.github.io/tags/data-ethics/</guid>
+				<guid>http://localhost:1313/tags/data-ethics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Data Science</title>
-				<link>https://anastasiachubenkogolob.github.io/tags/data-science/</link>
+				<link>http://localhost:1313/tags/data-science/</link>
 				<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://anastasiachubenkogolob.github.io/tags/data-science/</guid>
+				<guid>http://localhost:1313/tags/data-science/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Privacy</title>
-				<link>https://anastasiachubenkogolob.github.io/tags/privacy/</link>
+				<link>http://localhost:1313/tags/privacy/</link>
 				<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://anastasiachubenkogolob.github.io/tags/privacy/</guid>
+				<guid>http://localhost:1313/tags/privacy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Student Surveys</title>
-				<link>https://anastasiachubenkogolob.github.io/tags/student-surveys/</link>
+				<link>http://localhost:1313/tags/student-surveys/</link>
 				<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://anastasiachubenkogolob.github.io/tags/student-surveys/</guid>
+				<guid>http://localhost:1313/tags/student-surveys/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Example</title>
-				<link>https://anastasiachubenkogolob.github.io/tags/example/</link>
+				<link>http://localhost:1313/tags/example/</link>
 				<pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-				<guid>https://anastasiachubenkogolob.github.io/tags/example/</guid>
+				<guid>http://localhost:1313/tags/example/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Markdown Syntax</title>
-				<link>https://anastasiachubenkogolob.github.io/tags/markdown-syntax/</link>
+				<link>http://localhost:1313/tags/markdown-syntax/</link>
 				<pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-				<guid>https://anastasiachubenkogolob.github.io/tags/markdown-syntax/</guid>
+				<guid>http://localhost:1313/tags/markdown-syntax/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Mathjax</title>
-				<link>https://anastasiachubenkogolob.github.io/tags/mathjax/</link>
+				<link>http://localhost:1313/tags/mathjax/</link>
 				<pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-				<guid>https://anastasiachubenkogolob.github.io/tags/mathjax/</guid>
+				<guid>http://localhost:1313/tags/mathjax/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sample</title>
-				<link>https://anastasiachubenkogolob.github.io/tags/sample/</link>
+				<link>http://localhost:1313/tags/sample/</link>
 				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-				<guid>https://anastasiachubenkogolob.github.io/tags/sample/</guid>
+				<guid>http://localhost:1313/tags/sample/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Emoji Support</title>
-				<link>https://anastasiachubenkogolob.github.io/tags/emoji-support/</link>
+				<link>http://localhost:1313/tags/emoji-support/</link>
 				<pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-				<guid>https://anastasiachubenkogolob.github.io/tags/emoji-support/</guid>
+				<guid>http://localhost:1313/tags/emoji-support/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Placeholder Text</title>
-				<link>https://anastasiachubenkogolob.github.io/tags/placeholder-text/</link>
+				<link>http://localhost:1313/tags/placeholder-text/</link>
 				<pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-				<guid>https://anastasiachubenkogolob.github.io/tags/placeholder-text/</guid>
+				<guid>http://localhost:1313/tags/placeholder-text/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Rich Content</title>
-				<link>https://anastasiachubenkogolob.github.io/tags/rich-content/</link>
+				<link>http://localhost:1313/tags/rich-content/</link>
 				<pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
-				<guid>https://anastasiachubenkogolob.github.io/tags/rich-content/</guid>
+				<guid>http://localhost:1313/tags/rich-content/</guid>
 				<description></description>
 			</item>
 	</channel>
