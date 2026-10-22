@@ -1,4 +1,4 @@
-baseURL: "https://chubenkonastya.github.io/mysite/"
+baseURL: https://github.com/AnastasiaChubenkoGolob
 languageCode: "en-us"
 title: "Anastasia Chubenko-Golob"
 theme: hugo-profile
