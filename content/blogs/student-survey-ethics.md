@@ -10,9 +10,11 @@ tags:
   - Student Surveys
   - Data Science
 description: "Ethical issues in anonymous student surveys."
+---
 image: "/images/student-survey.jpg"
 ---
 
+![Student survey ethics](/images/student-survey.jpg)
 
 ## Introduction
 
