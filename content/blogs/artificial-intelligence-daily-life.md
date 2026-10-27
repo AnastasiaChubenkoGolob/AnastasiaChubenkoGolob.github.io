@@ -3,7 +3,8 @@ title: "How Is Artificial Intelligence Changing Our Daily Lives?"
 date: 2026-10-26
 draft: false
 description: "Discover how artificial intelligence is changing education, work, and everyday life."
-image: "images/artificial-intelligence-daily-life.jpg"
+image: "/images/artificial-intelligence-daily-life.jpg"
+tags: ["Artificial Intelligence", "Technology", "Daily Life"]
 ---
 
 Artificial Intelligence (AI) has become an important part of our daily lives. From smartphones and online shopping to education and healthcare, AI helps people complete tasks, find information, and solve problems.

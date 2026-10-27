@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>How Is Artificial Intelligence Changing Our Daily Lives?</title>
+				<link>http://localhost:1313/blogs/artificial-intelligence-daily-life/</link>
+				<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/artificial-intelligence-daily-life/</guid>
+				<description>&lt;p&gt;Artificial Intelligence (AI) has become an important part of our daily lives. From smartphones and online shopping to education and healthcare, AI helps people complete tasks, find information, and solve problems.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-do-we-use-ai-every-day&#34;&gt;How Do We Use AI Every Day?&lt;/h2&gt;&#xA;&lt;p&gt;AI is used in smartphones, online stores, and streaming services. It helps recommend products, movies, and music based on our interests. Voice assistants can answer questions, set reminders, and provide directions.&lt;/p&gt;&#xA;&lt;p&gt;AI is also useful in education. Students can use AI tools to understand difficult topics, improve their writing, practice languages, and generate ideas. However, it is important to check the accuracy of AI-generated information.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Can We Really Trust Anonymous Student Surveys?</title>
 				<link>http://localhost:1313/blogs/student-survey-ethics/</link>
