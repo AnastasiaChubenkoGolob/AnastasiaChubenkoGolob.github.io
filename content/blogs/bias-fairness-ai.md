@@ -3,6 +3,7 @@ title: "When the Machine Learns Our Mistakes: Bias, Fairness, and the Human Cost
 date: 2026-10-29
 draft: false
 description: "How algorithmic bias emerges in AI, why fairness is more than accuracy, and what fairer AI governance could look like."
+image: "/images/bias-fairness-ai.jpg"
 tags: ["AI Ethics", "Bias", "Fairness"]
 ---
 
